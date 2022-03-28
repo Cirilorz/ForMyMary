@@ -20,11 +20,13 @@ body{
 
 .foto1{
 	padding-left: 78px;	
+        wdith: 100%;
 }
 
 .foto2{
 		text-decoration: none;
 		margin: 78px;		
+                wdith: 100%;
 }
 
 .nossasdatas{
