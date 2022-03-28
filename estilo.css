@@ -1,0 +1,66 @@
+/* document css */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+		font-family: 'Poppins', sans-serif;
+		color: #8f8e8e;
+		background-color: #dfd4d4 ;
+		text-decoration: none;
+}
+
+.textoalin{
+		text-align: center;
+		padding-to: 0x 42,5px;
+}
+
+.foto{		
+		position: relative;
+}
+
+.foto1{
+	padding-left: 78px;	
+}
+
+.foto2{
+		text-decoration: none;
+		margin: 78px;		
+}
+
+.nossasdatas{
+		position: relative;
+		margin-left: 100px;
+		margin-right: 100px;
+		border-top: 0.4px solid gray;
+}
+
+.nossasdatas{
+		padding-top:10px;
+		text-align: center;
+		position: relative;
+}
+
+.contnossasdatas{
+		padding: 5px;
+}
+
+a: { 
+    border: none;
+    text-decoration: none;
+}		
+
+.espaco{
+		text-align: left;
+		font-size:2px;
+		height: 72px;
+		width: 50;
+		background-color: ;	
+}
+
+.espaco1{
+		border-top: 0.4px solid gray;
+		height: 72px;
+		width: 50;
+		margin-left:100px;
+		margin-right: 100px;
+}
