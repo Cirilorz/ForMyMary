@@ -8,7 +8,9 @@ body{
 		background-color: #dfd4d4 ;
 		text-decoration: none;
 }
-
+.declaracao{
+                padding:15px;
+}
 .textoalin{
 		text-align: center;
 		padding-to: 0x 42,5px;
